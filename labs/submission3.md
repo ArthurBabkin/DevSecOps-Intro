@@ -29,4 +29,28 @@ In DevSecOps, pipelines and policies often rely on "who made this change." Witho
 
 ## Task 2 — Pre-commit Secret Scanning
 
-*(To be filled after hook setup and tests.)*
+### Setup
+
+The pre-commit hook is installed at `.git/hooks/pre-commit`. It runs on every commit and:
+
+- Scans **staged files** with **TruffleHog** (Docker) for non-`lectures/` paths.
+- Scans all staged files with **Gitleaks** (Docker).
+- **Blocks the commit** if a secret is found outside `lectures/`; secrets only in `lectures/` are allowed (educational content).
+
+The script was made portable for macOS (replaced `mapfile` with a `while read` loop). The hook is executable (`chmod +x`).
+
+### Test 1: Commit blocked when secret is present
+
+A test file containing a fake GitHub token (`ghp_...`) was staged. Gitleaks detected it; the hook blocked the commit.
+
+![Commit blocked by pre-commit](screenshots/lab3-commit-blocked.png)
+
+### Test 2: Commit allowed when no secrets
+
+After removing the test file and staging only safe files (e.g. `submission3.md`, screenshots), the hook reported no secrets and the commit succeeded.
+
+![Commit allowed](screenshots/lab3-commit-allowed.png)
+
+### How automated secret scanning prevents incidents
+
+Scanning at pre-commit stops secrets from ever entering the repo. Once pushed, history is hard to clean and credentials can be harvested by bots. Blocking at commit time keeps keys out of the tree, reduces blast radius, and fits into DevSecOps “shift-left” practices without blocking normal work (e.g. excluding `lectures/` for training content).
