@@ -1,0 +1,48 @@
+=== SAST Analysis Report ===
+
+Total findings: 25
+Files scanned: 1014
+Rules run: 140
+
+=== Findings by severity ===
+   7 ERROR
+  18 WARNING
+
+=== Findings by rule ===
+   6 javascript.sequelize.security.audit.sequelize-injection-express.express-sequelize-injection
+   4 javascript.express.security.audit.express-res-sendfile.express-res-sendfile
+   4 javascript.express.security.audit.express-check-directory-listing.express-check-directory-listing
+   4 generic.html-templates.security.unquoted-attribute-var.unquoted-attribute-var
+   2 javascript.lang.security.audit.unknown-value-with-script-tag.unknown-value-with-script-tag
+   1 javascript.lang.security.audit.code-string-concat.code-string-concat
+   1 javascript.jsonwebtoken.security.jwt-hardcode.hardcoded-jwt-secret
+   1 javascript.express.security.injection.raw-html-format.raw-html-format
+   1 javascript.express.security.audit.possible-user-input-redirect.unknown-value-in-redirect
+   1 javascript.express.security.audit.express-open-redirect.express-open-redirect
+
+=== Top findings (file:line severity rule) ===
+ERROR | code-string-concat | userProfile.ts :62
+ERROR | express-sequelize-injection | dbSchemaChallenge_1.ts :5
+ERROR | express-sequelize-injection | dbSchemaChallenge_3.ts :11
+ERROR | express-sequelize-injection | login.ts :34
+ERROR | express-sequelize-injection | search.ts :23
+ERROR | express-sequelize-injection | unionSqlInjectionChallenge_1.ts :6
+ERROR | express-sequelize-injection | unionSqlInjectionChallenge_3.ts :10
+WARNING | express-check-directory-listing | server.ts :269
+WARNING | express-check-directory-listing | server.ts :273
+WARNING | express-check-directory-listing | server.ts :277
+WARNING | express-check-directory-listing | server.ts :281
+WARNING | express-open-redirect | redirect.ts :19
+WARNING | express-res-sendfile | fileServer.ts :33
+WARNING | express-res-sendfile | keyServer.ts :14
+WARNING | express-res-sendfile | logfileServer.ts :14
+WARNING | express-res-sendfile | quarantineServer.ts :14
+WARNING | hardcoded-jwt-secret | insecurity.ts :56
+WARNING | raw-html-format | chatbot.ts :197
+WARNING | unknown-value-in-redirect | redirect.ts :19
+WARNING | unknown-value-with-script-tag | videoHandler.ts :58
+WARNING | unknown-value-with-script-tag | videoHandler.ts :71
+WARNING | unquoted-attribute-var | dataErasureForm.hbs :21
+WARNING | unquoted-attribute-var | navbar.component.html :17
+WARNING | unquoted-attribute-var | purchase-basket.component.html :15
+WARNING | unquoted-attribute-var | search-result.component.html :40
