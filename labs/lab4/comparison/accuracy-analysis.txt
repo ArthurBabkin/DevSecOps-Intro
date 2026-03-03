@@ -1,0 +1,27 @@
+=== SBOM Toolchain Accuracy Comparison ===
+Generated: Tue Mar  3 18:20:04 UTC 2026
+Target: bkimminich/juice-shop:v19.0.0
+
+--- Component Discovery ---
+Tool       | Packages Detected
+-----------|------------------
+Syft       | 1139
+Trivy      | 1135
+
+--- Vulnerability Detection ---
+Severity   | Trivy | Grype
+-----------|-------|------
+CRITICAL   | 10     | 11
+HIGH       | 81    | 87
+MEDIUM     | 34    | 33
+LOW        | 18    | 3
+TOTAL      | 143    | 146
+
+--- Notes ---
+- Syft focuses on SBOM generation (CycloneDX, SPDX, syft-json formats)
+- Trivy is all-in-one: OS packages + lang packages + secrets + licenses
+- Grype consumes Syft SBOM and cross-references NVD/GitHub Advisory DB
+- Discrepancies in total CVE count can arise from: different DB versions,
+  different package scope, different matching algorithms
+- For supply-chain audit, combining Syft + Grype gives reproducible, 
+  portable results; Trivy's integrated approach suits CI/CD pipelines
