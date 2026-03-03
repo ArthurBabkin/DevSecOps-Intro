@@ -1,0 +1,80 @@
+---
+env:
+  contexts:
+    - name: "juice-shop"
+      urls:
+        - "http://localhost:3000"
+      includePaths:
+        - "http://localhost:3000.*"
+      excludePaths:
+        - "http://localhost:3000/socket.io.*"
+        - "http://localhost:3000/assets.*"
+        - "http://localhost:3000/ftp.*"
+      authentication:
+        method: "json"
+        parameters:
+          loginPageUrl: "http://localhost:3000/rest/user/login"
+          loginRequestData: '{"email":"{%username%}","password":"{%password%}"}'
+          usernameParameter: "%username%"
+          passwordParameter: "%password%"
+        verification:
+          method: "response"
+          loggedInRegex: "authentication"
+          loggedOutRegex: "\\QUnauthorized\\E"
+      sessionManagement:
+        method: "headers"
+        parameters:
+          headersFile: ""
+      users:
+        - name: "admin"
+          credentials:
+            username: "admin@juice-sh.op"
+            password: "admin123"
+  parameters:
+    failOnError: false
+    failOnWarning: false
+    progressToStdout: true
+
+jobs:
+  - type: spider
+    parameters:
+      context: "juice-shop"
+      user: "admin"
+      url: "http://localhost:3000"
+      maxDuration: 3
+    name: "spider"
+
+  - type: spiderAjax
+    parameters:
+      context: "juice-shop"
+      user: "admin"
+      url: "http://localhost:3000"
+      maxDuration: 3
+    name: "spiderAjax"
+
+  - type: passiveScan-wait
+    parameters:
+      maxDuration: 5
+    name: "passiveScan-wait"
+
+  - type: activeScan
+    parameters:
+      context: "juice-shop"
+      user: "admin"
+      maxRuleDurationInMins: 2
+      maxScanDurationInMins: 20
+    name: "activeScan"
+
+  - type: report
+    parameters:
+      template: "traditional-html"
+      reportDir: "/zap/wrk/zap"
+      reportFile: "report-auth"
+    name: "report-html"
+
+  - type: report
+    parameters:
+      template: "traditional-json"
+      reportDir: "/zap/wrk/zap"
+      reportFile: "zap-report-auth"
+    name: "report-json"
