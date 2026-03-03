@@ -1,0 +1,14 @@
+=== Terraform Security Analysis ===
+tfsec findings: 53
+Checkov findings: 78
+Terrascan findings: 22
+
+tfsec by severity:
+   9 CRITICAL
+  25 HIGH
+   8 LOW
+  11 MEDIUM
+
+Terrascan by severity:
+  14 HIGH
+   8 MEDIUM

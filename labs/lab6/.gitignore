@@ -1,0 +1,4 @@
+vulnerable-iac/terraform/tfsec-out.json
+vulnerable-iac/terraform/tfsec-report.txt
+vulnerable-iac/pulumi/kics-report/
+vulnerable-iac/ansible/kics-report/
