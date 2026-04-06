@@ -1,0 +1,26 @@
+
+
+ Target   │  bkimminich/juice-shop:v19.0.0  
+   digest │  2a95df217ff8                   
+
+## Recommended fixes
+
+  Base image is  :nonroot 
+
+ Digest          │     
+ Vulnerabilities │     
+ Size            │ 0 B 
+ Packages        │ 0   
+
+
+Refresh base image
+  Rebuild the image using a newer base image version. Updating this may result in breaking changes.
+
+  ✓ This image version is up to date.
+
+
+Change base image
+  The list displays new recommended tags in descending order, where the top results are rated as most suitable.
+
+  ✓ There are no tag recommendations at this time.
+

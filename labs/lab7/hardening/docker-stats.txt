@@ -1,0 +1,4 @@
+NAME               CPU %     MEM USAGE / LIMIT     MEM %
+juice-default      0.51%     92.88MiB / 7.808GiB   1.16%
+juice-hardened     0.48%     82.05MiB / 512MiB     16.03%
+juice-production   0.52%     82.3MiB / 512MiB      16.07%
