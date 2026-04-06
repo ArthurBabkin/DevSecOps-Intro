@@ -1,0 +1,5 @@
+{
+  "payloadType": "application/vnd.in-toto+json",
+  "predicateType": "https://cyclonedx.org/bom",
+  "componentCount": 3532
+}

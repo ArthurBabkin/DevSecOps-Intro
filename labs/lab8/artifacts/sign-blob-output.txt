@@ -1,0 +1,4 @@
+Flag --tlog-upload has been deprecated, prefer using a --signing-config file with no transparency log services
+WARNING: --output-signature is deprecated when using --new-bundle-format and will be ignored
+Using payload from: labs/lab8/artifacts/sample.tar.gz
+Wrote signature to file labs/lab8/artifacts/sample.tar.gz.sig

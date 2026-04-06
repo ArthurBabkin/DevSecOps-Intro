@@ -1,0 +1,9 @@
+# Cosign CLI binary
+cosign-darwin-arm64
+cosign-darwin-amd64
+cosign-linux-arm64
+cosign-linux-amd64
+
+# Lab 8 — Cosign key material
+labs/lab8/signing/cosign.key
+labs/lab8/signing/cosign.pub
