@@ -1,0 +1,5 @@
+# False positive: expired AWS pre-signed S3 URL embedded in Docker Scout SARIF output.
+# The "credential" is a temporary key from 2024 in a vulnerability database URL,
+# not an actual secret.
+labs/lab7/scanning/scout-cves.sarif:aws-access-token:811
+labs/lab7/scanning/scout-cves.sarif:aws-access-token:812
