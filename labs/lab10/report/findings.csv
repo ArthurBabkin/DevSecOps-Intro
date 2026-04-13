@@ -1,0 +1,1445 @@
+id,title,severity,active,verified,is_mitigated,false_p,cwe,test,found_by,sla_days_remaining,sla_expiration_date,created
+1,javascript.sequelize.security.audit.sequelize-injection-express.express-sequelize-injection,High,True,False,False,False,89,2,[182],30,2026-05-13,2026-04-13T17:10:47.840520Z
+2,javascript.sequelize.security.audit.sequelize-injection-express.express-sequelize-injection,High,True,False,False,False,89,2,[182],30,2026-05-13,2026-04-13T17:10:47.851427Z
+3,javascript.sequelize.security.audit.sequelize-injection-express.express-sequelize-injection,High,True,False,False,False,89,2,[182],30,2026-05-13,2026-04-13T17:10:47.857645Z
+4,javascript.sequelize.security.audit.sequelize-injection-express.express-sequelize-injection,High,True,False,False,False,89,2,[182],30,2026-05-13,2026-04-13T17:10:47.863606Z
+5,generic.html-templates.security.unquoted-attribute-var.unquoted-attribute-var,Medium,True,False,False,False,79,2,[182],90,2026-07-12,2026-04-13T17:10:47.868651Z
+6,generic.html-templates.security.unquoted-attribute-var.unquoted-attribute-var,Medium,True,False,False,False,79,2,[182],90,2026-07-12,2026-04-13T17:10:47.874487Z
+7,generic.html-templates.security.unquoted-attribute-var.unquoted-attribute-var,Medium,True,False,False,False,79,2,[182],90,2026-07-12,2026-04-13T17:10:47.881433Z
+8,javascript.jsonwebtoken.security.jwt-hardcode.hardcoded-jwt-secret,Medium,True,False,False,False,798,2,[182],90,2026-07-12,2026-04-13T17:10:47.887244Z
+9,javascript.express.security.injection.raw-html-format.raw-html-format,Medium,True,False,False,False,79,2,[182],90,2026-07-12,2026-04-13T17:10:47.892465Z
+10,javascript.express.security.audit.express-res-sendfile.express-res-sendfile,Medium,True,False,False,False,73,2,[182],90,2026-07-12,2026-04-13T17:10:47.897305Z
+11,javascript.express.security.audit.express-res-sendfile.express-res-sendfile,Medium,True,False,False,False,73,2,[182],90,2026-07-12,2026-04-13T17:10:47.903196Z
+12,javascript.express.security.audit.express-res-sendfile.express-res-sendfile,Medium,True,False,False,False,73,2,[182],90,2026-07-12,2026-04-13T17:10:47.909139Z
+13,javascript.sequelize.security.audit.sequelize-injection-express.express-sequelize-injection,High,True,False,False,False,89,2,[182],30,2026-05-13,2026-04-13T17:10:47.914440Z
+14,javascript.express.security.audit.express-res-sendfile.express-res-sendfile,Medium,True,False,False,False,73,2,[182],90,2026-07-12,2026-04-13T17:10:47.918634Z
+15,javascript.express.security.audit.possible-user-input-redirect.unknown-value-in-redirect,Medium,True,False,False,False,601,2,[182],90,2026-07-12,2026-04-13T17:10:47.923113Z
+16,javascript.express.security.audit.express-open-redirect.express-open-redirect,Medium,True,False,False,False,601,2,[182],90,2026-07-12,2026-04-13T17:10:47.927421Z
+17,javascript.sequelize.security.audit.sequelize-injection-express.express-sequelize-injection,High,True,False,False,False,89,2,[182],30,2026-05-13,2026-04-13T17:10:47.931790Z
+18,javascript.lang.security.audit.code-string-concat.code-string-concat,High,True,False,False,False,95,2,[182],30,2026-05-13,2026-04-13T17:10:47.934692Z
+19,javascript.lang.security.audit.unknown-value-with-script-tag.unknown-value-with-script-tag,Medium,True,False,False,False,79,2,[182],90,2026-07-12,2026-04-13T17:10:47.938961Z
+20,javascript.lang.security.audit.unknown-value-with-script-tag.unknown-value-with-script-tag,Medium,True,False,False,False,79,2,[182],90,2026-07-12,2026-04-13T17:10:47.941972Z
+21,javascript.express.security.audit.express-check-directory-listing.express-check-directory-listing,Medium,True,False,False,False,548,2,[182],90,2026-07-12,2026-04-13T17:10:47.945128Z
+22,javascript.express.security.audit.express-check-directory-listing.express-check-directory-listing,Medium,True,False,False,False,548,2,[182],90,2026-07-12,2026-04-13T17:10:47.948215Z
+23,javascript.express.security.audit.express-check-directory-listing.express-check-directory-listing,Medium,True,False,False,False,548,2,[182],90,2026-07-12,2026-04-13T17:10:47.950780Z
+24,javascript.express.security.audit.express-check-directory-listing.express-check-directory-listing,Medium,True,False,False,False,548,2,[182],90,2026-07-12,2026-04-13T17:10:47.953895Z
+25,generic.html-templates.security.unquoted-attribute-var.unquoted-attribute-var,Medium,True,False,False,False,79,2,[182],90,2026-07-12,2026-04-13T17:10:47.956680Z
+26,CVE-2022-27943 GCC-12-Base 12.2.0-14+deb12u1,Low,True,True,False,False,674,3,[208],120,2026-08-11,2026-04-13T17:10:48.270599Z
+27,CVE-2025-4802 Libc6 2.36-9+deb12u10,High,True,True,False,False,426,3,[208],30,2026-05-13,2026-04-13T17:10:48.300576Z
+28,CVE-2026-0861 Libc6 2.36-9+deb12u10,High,True,True,False,False,190,3,[208],30,2026-05-13,2026-04-13T17:10:48.315276Z
+29,CVE-2025-15281 Libc6 2.36-9+deb12u10,Medium,True,True,False,False,908,3,[208],90,2026-07-12,2026-04-13T17:10:48.329049Z
+30,CVE-2025-8058 Libc6 2.36-9+deb12u10,Medium,True,True,False,False,415,3,[208],90,2026-07-12,2026-04-13T17:10:48.342712Z
+31,CVE-2026-0915 Libc6 2.36-9+deb12u10,Medium,True,True,False,False,908,3,[208],90,2026-07-12,2026-04-13T17:10:48.356206Z
+32,CVE-2010-4756 Libc6 2.36-9+deb12u10,Low,True,True,False,False,399,3,[208],120,2026-08-11,2026-04-13T17:10:48.369173Z
+33,CVE-2018-20796 Libc6 2.36-9+deb12u10,Low,True,True,False,False,674,3,[208],120,2026-08-11,2026-04-13T17:10:48.381311Z
+34,CVE-2019-1010022 Libc6 2.36-9+deb12u10,Low,True,True,False,False,119,3,[208],120,2026-08-11,2026-04-13T17:10:48.390474Z
+35,CVE-2019-1010023 Libc6 2.36-9+deb12u10,Low,True,True,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:48.399468Z
+36,CVE-2019-1010024 Libc6 2.36-9+deb12u10,Low,True,True,False,False,200,3,[208],120,2026-08-11,2026-04-13T17:10:48.408378Z
+37,CVE-2019-1010025 Libc6 2.36-9+deb12u10,Low,True,True,False,False,330,3,[208],120,2026-08-11,2026-04-13T17:10:48.417251Z
+38,CVE-2019-9192 Libc6 2.36-9+deb12u10,Low,True,True,False,False,674,3,[208],120,2026-08-11,2026-04-13T17:10:48.425944Z
+39,CVE-2022-27943 Libgcc-S1 12.2.0-14+deb12u1,Low,True,True,False,False,674,3,[208],120,2026-08-11,2026-04-13T17:10:48.435594Z
+40,CVE-2022-27943 Libgomp1 12.2.0-14+deb12u1,Low,True,True,False,False,674,3,[208],120,2026-08-11,2026-04-13T17:10:48.445380Z
+41,CVE-2025-15467 Libssl3 3.0.17-1~deb12u2,Critical,True,True,False,False,787,3,[208],7,2026-04-20,2026-04-13T17:10:48.454250Z
+42,CVE-2025-69419 Libssl3 3.0.17-1~deb12u2,High,True,True,False,False,787,3,[208],30,2026-05-13,2026-04-13T17:10:48.463693Z
+43,CVE-2025-69421 Libssl3 3.0.17-1~deb12u2,High,True,True,False,False,476,3,[208],30,2026-05-13,2026-04-13T17:10:48.472977Z
+44,CVE-2025-68160 Libssl3 3.0.17-1~deb12u2,Medium,True,True,False,False,787,3,[208],90,2026-07-12,2026-04-13T17:10:48.482914Z
+45,CVE-2025-69418 Libssl3 3.0.17-1~deb12u2,Medium,True,True,False,False,325,3,[208],90,2026-07-12,2026-04-13T17:10:48.494266Z
+46,CVE-2025-69420 Libssl3 3.0.17-1~deb12u2,Medium,True,True,False,False,754,3,[208],90,2026-07-12,2026-04-13T17:10:48.503695Z
+47,CVE-2025-9230 Libssl3 3.0.17-1~deb12u2,Medium,True,True,False,False,125,3,[208],90,2026-07-12,2026-04-13T17:10:48.512681Z
+48,CVE-2026-22795 Libssl3 3.0.17-1~deb12u2,Medium,True,True,False,False,754,3,[208],90,2026-07-12,2026-04-13T17:10:48.522586Z
+49,CVE-2026-22796 Libssl3 3.0.17-1~deb12u2,Medium,True,True,False,False,754,3,[208],90,2026-07-12,2026-04-13T17:10:48.531343Z
+50,CVE-2025-27587 Libssl3 3.0.17-1~deb12u2,Low,True,True,False,False,385,3,[208],120,2026-08-11,2026-04-13T17:10:48.541940Z
+51,CVE-2025-9232 Libssl3 3.0.17-1~deb12u2,Low,True,True,False,False,125,3,[208],120,2026-08-11,2026-04-13T17:10:48.550304Z
+52,CVE-2022-27943 Libstdc++6 12.2.0-14+deb12u1,Low,True,True,False,False,674,3,[208],120,2026-08-11,2026-04-13T17:10:48.558990Z
+53,NSWG-ECO-428 Base64url 0.0.6,High,True,True,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:48.568186Z
+54,GHSA-rvg8-pwq2-xj7q Base64url 0.0.6,Medium,True,True,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:48.580008Z
+55,CVE-2024-4068 Braces 2.3.2,High,True,True,False,False,1050,3,[208],30,2026-05-13,2026-04-13T17:10:48.589120Z
+56,CVE-2024-47764 Cookie 0.4.2,Low,True,True,False,False,74,3,[208],120,2026-08-11,2026-04-13T17:10:48.597925Z
+57,CVE-2023-46233 Crypto-Js 3.3.0,Critical,True,True,False,False,328,3,[208],7,2026-04-20,2026-04-13T17:10:48.607358Z
+58,CVE-2026-24001 Diff 4.0.2,Low,True,True,False,False,400,3,[208],120,2026-08-11,2026-04-13T17:10:48.617007Z
+59,CVE-2026-27837 Dottie 2.0.6,Medium,True,True,False,False,1321,3,[208],90,2026-07-12,2026-04-13T17:10:48.626279Z
+60,CVE-2022-41940 engine.io 4.1.2,Medium,True,True,False,False,248,3,[208],90,2026-07-12,2026-04-13T17:10:48.635318Z
+61,CVE-2020-15084 Express-JWT 0.1.3,High,True,True,False,False,285,3,[208],30,2026-05-13,2026-04-13T17:10:48.644715Z
+62,CVE-2025-64756 Glob 10.4.5,High,True,True,False,False,78,3,[208],30,2026-05-13,2026-04-13T17:10:48.653899Z
+63,CVE-2022-33987 Got 8.3.2,Medium,True,True,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:48.662752Z
+64,CVE-2022-25881 HTTP-Cache-Semantics 3.8.1,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.671999Z
+65,CVE-2024-29415 Ip 2.0.1,High,True,True,False,False,918,3,[208],30,2026-05-13,2026-04-13T17:10:48.681300Z
+66,CVE-2025-64718 Js-Yaml 3.14.1,Medium,True,True,False,False,1321,3,[208],90,2026-07-12,2026-04-13T17:10:48.690663Z
+67,CVE-2015-9235 Jsonwebtoken 0.1.0,Critical,True,True,False,False,20,3,[208],7,2026-04-20,2026-04-13T17:10:48.699649Z
+68,CVE-2022-23539 Jsonwebtoken 0.1.0,High,True,True,False,False,327,3,[208],30,2026-05-13,2026-04-13T17:10:48.709656Z
+69,NSWG-ECO-17 Jsonwebtoken 0.1.0,High,True,True,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:48.718920Z
+70,CVE-2022-23540 Jsonwebtoken 0.1.0,Medium,True,True,False,False,287,3,[208],90,2026-07-12,2026-04-13T17:10:48.728979Z
+71,CVE-2022-23541 Jsonwebtoken 0.1.0,Medium,True,True,False,False,287,3,[208],90,2026-07-12,2026-04-13T17:10:48.738059Z
+72,CVE-2015-9235 Jsonwebtoken 0.4.0,Critical,True,True,False,False,20,3,[208],7,2026-04-20,2026-04-13T17:10:48.747002Z
+73,CVE-2022-23539 Jsonwebtoken 0.4.0,High,True,True,False,False,327,3,[208],30,2026-05-13,2026-04-13T17:10:48.755833Z
+74,NSWG-ECO-17 Jsonwebtoken 0.4.0,High,True,True,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:48.764709Z
+75,CVE-2022-23540 Jsonwebtoken 0.4.0,Medium,True,True,False,False,287,3,[208],90,2026-07-12,2026-04-13T17:10:48.774452Z
+76,CVE-2022-23541 Jsonwebtoken 0.4.0,Medium,True,True,False,False,287,3,[208],90,2026-07-12,2026-04-13T17:10:48.783625Z
+77,CVE-2016-1000223 JWS 0.2.6,High,True,True,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:48.792834Z
+78,CVE-2025-65945 JWS 0.2.6,High,True,True,False,False,347,3,[208],30,2026-05-13,2026-04-13T17:10:48.801962Z
+79,CVE-2019-10744 Lodash 2.4.2,Critical,True,True,False,False,1321,3,[208],7,2026-04-20,2026-04-13T17:10:48.810893Z
+80,CVE-2018-16487 Lodash 2.4.2,High,True,True,False,False,400,3,[208],30,2026-05-13,2026-04-13T17:10:48.820383Z
+81,CVE-2021-23337 Lodash 2.4.2,High,True,True,False,False,94,3,[208],30,2026-05-13,2026-04-13T17:10:48.830776Z
+82,CVE-2018-3721 Lodash 2.4.2,Low,True,True,False,False,471,3,[208],120,2026-08-11,2026-04-13T17:10:48.839689Z
+83,CVE-2025-13465 Lodash 4.17.21,Medium,True,True,False,False,1321,3,[208],90,2026-07-12,2026-04-13T17:10:48.848845Z
+84,CVE-2020-8203 lodash.set 4.3.2,High,True,True,False,False,770,3,[208],30,2026-05-13,2026-04-13T17:10:48.857954Z
+85,GHSA-5mrr-rgp6-x4gr Marsdb 0.6.11,Critical,True,True,False,False,0,3,[208],7,2026-04-20,2026-04-13T17:10:48.868980Z
+86,CVE-2025-57349 Messageformat 2.3.0,Low,True,True,False,False,1321,3,[208],120,2026-08-11,2026-04-13T17:10:48.877906Z
+87,CVE-2024-4067 Micromatch 3.1.10,Medium,True,True,False,False,1333,3,[208],90,2026-07-12,2026-04-13T17:10:48.886962Z
+88,CVE-2026-26996 Minimatch 3.0.5,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.896684Z
+89,CVE-2026-27903 Minimatch 3.0.5,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:48.906807Z
+90,CVE-2026-27904 Minimatch 3.0.5,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.916001Z
+91,CVE-2026-26996 Minimatch 3.0.8,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.924950Z
+92,CVE-2026-27903 Minimatch 3.0.8,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:48.934126Z
+93,CVE-2026-27904 Minimatch 3.0.8,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.943456Z
+94,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.952300Z
+95,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.961361Z
+96,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.970608Z
+97,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.979516Z
+98,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:48.992157Z
+99,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.001098Z
+100,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.010351Z
+101,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.019938Z
+102,CVE-2026-26996 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.029098Z
+103,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.038171Z
+104,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.047167Z
+105,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.056242Z
+106,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.065740Z
+107,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.075535Z
+108,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.084993Z
+109,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.095747Z
+110,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.105190Z
+111,CVE-2026-27903 Minimatch 3.1.2,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.114298Z
+112,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.123398Z
+113,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.132791Z
+114,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.141911Z
+115,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.151304Z
+116,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.160643Z
+117,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.170162Z
+118,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.179427Z
+119,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.188845Z
+120,CVE-2026-27904 Minimatch 3.1.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.198115Z
+121,CVE-2026-26996 Minimatch 5.1.6,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.207913Z
+122,CVE-2026-27903 Minimatch 5.1.6,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.217842Z
+123,CVE-2026-27904 Minimatch 5.1.6,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.226769Z
+124,CVE-2026-26996 Minimatch 9.0.5,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.236256Z
+125,CVE-2026-27903 Minimatch 9.0.5,High,True,True,False,False,407,3,[208],30,2026-05-13,2026-04-13T17:10:49.245584Z
+126,CVE-2026-27904 Minimatch 9.0.5,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.254897Z
+127,CVE-2017-18214 Moment 2.0.0,High,True,True,False,False,400,3,[208],30,2026-05-13,2026-04-13T17:10:49.263918Z
+128,CVE-2022-24785 Moment 2.0.0,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.273518Z
+129,CVE-2016-4055 Moment 2.0.0,Medium,True,True,False,False,400,3,[208],90,2026-07-12,2026-04-13T17:10:49.283154Z
+130,CVE-2025-47935 Multer 1.4.5-lts.2,High,True,True,False,False,401,3,[208],30,2026-05-13,2026-04-13T17:10:49.292169Z
+131,CVE-2025-47944 Multer 1.4.5-lts.2,High,True,True,False,False,248,3,[208],30,2026-05-13,2026-04-13T17:10:49.301590Z
+132,CVE-2025-48997 Multer 1.4.5-lts.2,High,True,True,False,False,248,3,[208],30,2026-05-13,2026-04-13T17:10:49.310767Z
+133,CVE-2025-7338 Multer 1.4.5-lts.2,High,True,True,False,False,248,3,[208],30,2026-05-13,2026-04-13T17:10:49.320565Z
+134,CVE-2021-23771 Notevil 1.3.3,Medium,True,True,False,False,1321,3,[208],90,2026-07-12,2026-04-13T17:10:49.329917Z
+135,CVE-2025-15284 Qs 6.13.0,High,True,True,False,False,20,3,[208],30,2026-05-13,2026-04-13T17:10:49.339437Z
+136,CVE-2026-2391 Qs 6.13.0,Low,True,True,False,False,20,3,[208],120,2026-08-11,2026-04-13T17:10:49.349283Z
+137,CVE-2022-25887 Sanitize-HTML 1.4.2,High,True,True,False,False,1333,3,[208],30,2026-05-13,2026-04-13T17:10:49.359374Z
+138,CVE-2016-1000237 Sanitize-HTML 1.4.2,Medium,True,True,False,False,79,3,[208],90,2026-07-12,2026-04-13T17:10:49.369200Z
+139,CVE-2017-16016 Sanitize-HTML 1.4.2,Medium,True,True,False,False,79,3,[208],90,2026-07-12,2026-04-13T17:10:49.378541Z
+140,CVE-2019-25225 Sanitize-HTML 1.4.2,Medium,True,True,False,False,79,3,[208],90,2026-07-12,2026-04-13T17:10:49.387925Z
+141,CVE-2021-26539 Sanitize-HTML 1.4.2,Medium,True,True,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:49.396923Z
+142,CVE-2021-26540 Sanitize-HTML 1.4.2,Medium,True,True,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:49.406071Z
+143,CVE-2024-21501 Sanitize-HTML 1.4.2,Medium,True,True,False,False,200,3,[208],90,2026-07-12,2026-04-13T17:10:49.415348Z
+144,NSWG-ECO-154 Sanitize-HTML 1.4.2,Medium,True,True,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:49.424689Z
+145,CVE-2024-38355 socket.io 3.1.2,Medium,True,True,False,False,20,3,[208],90,2026-07-12,2026-04-13T17:10:49.434729Z
+146,CVE-2023-32695 socket.io-parser 4.0.5,Medium,True,True,False,False,20,3,[208],90,2026-07-12,2026-04-13T17:10:49.444483Z
+147,CVE-2026-23745 Tar 4.4.19,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.455325Z
+148,CVE-2026-23950 Tar 4.4.19,High,True,True,False,False,176,3,[208],30,2026-05-13,2026-04-13T17:10:49.465505Z
+149,CVE-2026-24842 Tar 4.4.19,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.475445Z
+150,CVE-2026-26960 Tar 4.4.19,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.486542Z
+151,CVE-2024-28863 Tar 4.4.19,Medium,True,True,False,False,400,3,[208],90,2026-07-12,2026-04-13T17:10:49.499169Z
+152,CVE-2026-23745 Tar 6.2.1,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.512461Z
+153,CVE-2026-23950 Tar 6.2.1,High,True,True,False,False,176,3,[208],30,2026-05-13,2026-04-13T17:10:49.523982Z
+154,CVE-2026-24842 Tar 6.2.1,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.535164Z
+155,CVE-2026-26960 Tar 6.2.1,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.546457Z
+156,CVE-2026-23745 Tar 7.4.3,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.557224Z
+157,CVE-2026-23950 Tar 7.4.3,High,True,True,False,False,176,3,[208],30,2026-05-13,2026-04-13T17:10:49.568846Z
+158,CVE-2026-24842 Tar 7.4.3,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.580226Z
+159,CVE-2026-26960 Tar 7.4.3,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.590275Z
+160,CVE-2025-59343 Tar-Fs 2.1.3,High,True,True,False,False,22,3,[208],30,2026-05-13,2026-04-13T17:10:49.600092Z
+161,CVE-2025-12758 Validator 13.15.15,High,True,True,False,False,792,3,[208],30,2026-05-13,2026-04-13T17:10:49.610098Z
+162,CVE-2025-56200 Validator 13.15.15,Medium,True,True,False,False,79,3,[208],90,2026-07-12,2026-04-13T17:10:49.619779Z
+163,CVE-2023-32314 Vm2 3.9.17,Critical,True,True,False,False,74,3,[208],7,2026-04-20,2026-04-13T17:10:49.629565Z
+164,CVE-2023-37466 Vm2 3.9.17,Critical,True,True,False,False,94,3,[208],7,2026-04-20,2026-04-13T17:10:49.639501Z
+165,CVE-2023-37903 Vm2 3.9.17,Critical,True,True,False,False,78,3,[208],7,2026-04-20,2026-04-13T17:10:49.649037Z
+166,CVE-2026-22709 Vm2 3.9.17,Critical,True,True,False,False,94,3,[208],7,2026-04-20,2026-04-13T17:10:49.658524Z
+167,CVE-2023-32313 Vm2 3.9.17,Medium,True,True,False,False,74,3,[208],90,2026-07-12,2026-04-13T17:10:49.667913Z
+168,CVE-2024-37890 Ws 7.4.6,High,True,True,False,False,476,3,[208],30,2026-05-13,2026-04-13T17:10:49.677805Z
+169,Secret Detected in /juice-shop/build/lib/insecurity.js - Asymmetric Private Key,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.687631Z
+170,Secret Detected in /juice-shop/frontend/src/app/app.guard.spec.ts - JWT Token,Medium,True,False,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:49.696931Z
+171,Secret Detected in /juice-shop/frontend/src/app/last-login-ip/last-login-ip.component.spec.ts - JWT Token,Medium,True,False,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:49.704365Z
+172,Secret Detected in /juice-shop/lib/insecurity.ts - Asymmetric Private Key,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.711106Z
+173,License Detected in OS Packages - GPL-2.0-or-later,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.718570Z
+174,License Detected in OS Packages - GPL-2.0-or-later,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.726848Z
+175,License Detected in OS Packages - GPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.733838Z
+176,License Detected in OS Packages - GFDL-1.2-only,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:49.740837Z
+177,License Detected in OS Packages - GPL-2.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.748292Z
+178,License Detected in OS Packages - Artistic-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.755178Z
+179,License Detected in OS Packages - LGPL-2.0-or-later,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.762069Z
+180,License Detected in OS Packages - LGPL-2.1-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.768542Z
+181,License Detected in OS Packages - GPL-2.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.775531Z
+182,License Detected in OS Packages - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.782614Z
+183,License Detected in OS Packages - Artistic-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.789328Z
+184,License Detected in OS Packages - GPL-1.0-or-later,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.796114Z
+185,License Detected in OS Packages - GPL-1.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.802483Z
+186,License Detected in OS Packages - Ad-Hoc,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:49.809614Z
+187,License Detected in OS Packages - GPL-2.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:49.817135Z
+188,License Detected in OS Packages - Public-Domain,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:49.824247Z
+189,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.831847Z
+190,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.839053Z
+191,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.845952Z
+192,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.852568Z
+193,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.859491Z
+194,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.866430Z
+195,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.873156Z
+196,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.879959Z
+197,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.887089Z
+198,License Detected in Node.js - MPL-2.0,Medium,True,False,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:49.893688Z
+199,License Detected in Node.js - MPL-2.0,Medium,True,False,False,False,0,3,[208],90,2026-07-12,2026-04-13T17:10:49.900625Z
+200,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.907509Z
+201,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.914576Z
+202,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.921261Z
+203,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.927932Z
+204,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.934511Z
+205,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.941593Z
+206,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.948671Z
+207,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.955798Z
+208,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.963000Z
+209,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.969782Z
+210,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.976609Z
+211,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.984025Z
+212,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:49.994995Z
+213,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.001709Z
+214,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.008500Z
+215,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.015595Z
+216,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.022412Z
+217,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.029298Z
+218,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.035993Z
+219,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.042764Z
+220,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.049668Z
+221,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.056605Z
+222,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.064090Z
+223,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.070745Z
+224,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.077480Z
+225,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.084227Z
+226,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.091200Z
+227,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.098137Z
+228,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.104770Z
+229,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.111551Z
+230,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.118156Z
+231,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.124843Z
+232,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.131823Z
+233,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.138559Z
+234,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.145234Z
+235,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.151885Z
+236,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.158770Z
+237,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.165208Z
+238,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.172377Z
+239,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.179153Z
+240,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.186273Z
+241,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.193141Z
+242,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.200046Z
+243,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.207108Z
+244,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.213636Z
+245,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.220149Z
+246,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.226901Z
+247,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.233493Z
+248,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.240077Z
+249,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.246528Z
+250,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.253293Z
+251,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.259754Z
+252,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.266759Z
+253,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.273772Z
+254,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.280262Z
+255,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.286788Z
+256,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.293486Z
+257,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.299806Z
+258,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.306822Z
+259,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.313361Z
+260,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.320009Z
+261,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.326604Z
+262,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.332893Z
+263,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.339761Z
+264,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.346194Z
+265,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.352492Z
+266,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.359244Z
+267,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.365785Z
+268,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.372702Z
+269,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.379312Z
+270,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.385570Z
+271,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.391986Z
+272,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.400271Z
+273,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.409119Z
+274,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.419418Z
+275,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.428712Z
+276,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.436160Z
+277,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.443087Z
+278,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.450211Z
+279,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.456857Z
+280,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.464553Z
+281,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.471629Z
+282,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.478555Z
+283,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.486009Z
+284,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.493905Z
+285,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.502634Z
+286,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.510699Z
+287,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.519309Z
+288,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.526984Z
+289,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.534839Z
+290,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.543960Z
+291,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.552121Z
+292,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.560116Z
+293,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.568383Z
+294,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.575684Z
+295,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.583139Z
+296,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.589872Z
+297,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.596978Z
+298,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.603824Z
+299,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.610434Z
+300,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.617640Z
+301,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.624388Z
+302,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.631235Z
+303,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.638189Z
+304,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.645297Z
+305,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.652427Z
+306,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.658558Z
+307,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.665359Z
+308,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.671875Z
+309,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.678565Z
+310,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.685277Z
+311,License Detected in Node.js - (MIT OR Apache-2.0),Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.691606Z
+312,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.698461Z
+313,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.705091Z
+314,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.711370Z
+315,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.718739Z
+316,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.725166Z
+317,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.732183Z
+318,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.738524Z
+319,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.745072Z
+320,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.751692Z
+321,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.758170Z
+322,License Detected in Node.js - Unlicense,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.765068Z
+323,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.771619Z
+324,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.778613Z
+325,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.785561Z
+326,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.794360Z
+327,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.802599Z
+328,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.809041Z
+329,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.815707Z
+330,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.822219Z
+331,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.828686Z
+332,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.835310Z
+333,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.841683Z
+334,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.848646Z
+335,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.855166Z
+336,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.861553Z
+337,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.868559Z
+338,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.874821Z
+339,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.881698Z
+340,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.888372Z
+341,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.894649Z
+342,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.901267Z
+343,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.907701Z
+344,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.914590Z
+345,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.921150Z
+346,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.929241Z
+347,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.936349Z
+348,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.942944Z
+349,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.950235Z
+350,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.957094Z
+351,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.963709Z
+352,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.970458Z
+353,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.976733Z
+354,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.983588Z
+355,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:50.990361Z
+356,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.000836Z
+357,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.007484Z
+358,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.013929Z
+359,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.020816Z
+360,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.027793Z
+361,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.034612Z
+362,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.041084Z
+363,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.047856Z
+364,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.054770Z
+365,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.061662Z
+366,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.069221Z
+367,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.076126Z
+368,License Detected in Node.js - MIT/X11,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:51.083109Z
+369,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.089823Z
+370,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.096477Z
+371,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.102993Z
+372,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.109177Z
+373,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.116071Z
+374,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.123160Z
+375,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.129759Z
+376,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.135995Z
+377,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.141731Z
+378,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.148415Z
+379,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.154282Z
+380,License Detected in Node.js - BlueOak-1.0.0,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:51.161247Z
+381,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.167559Z
+382,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.173741Z
+383,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.180301Z
+384,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.186389Z
+385,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.192150Z
+386,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.198527Z
+387,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.205019Z
+388,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.211426Z
+389,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.218655Z
+390,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.225347Z
+391,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.232019Z
+392,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.238740Z
+393,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.244952Z
+394,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.251928Z
+395,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.258497Z
+396,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.265659Z
+397,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.272239Z
+398,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.278733Z
+399,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.285945Z
+400,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.292343Z
+401,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.299087Z
+402,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.305866Z
+403,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.312639Z
+404,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.319541Z
+405,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.325971Z
+406,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.334148Z
+407,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.341082Z
+408,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.348452Z
+409,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.356062Z
+410,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.363183Z
+411,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.369764Z
+412,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.379056Z
+413,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.385828Z
+414,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.392110Z
+415,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.399424Z
+416,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.405710Z
+417,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.412567Z
+418,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.418868Z
+419,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.425374Z
+420,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.433050Z
+421,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.440119Z
+422,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.447106Z
+423,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.453929Z
+424,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.460549Z
+425,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.467656Z
+426,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.474567Z
+427,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.481622Z
+428,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.488438Z
+429,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.495732Z
+430,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.503077Z
+431,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.509765Z
+432,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.517430Z
+433,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.524399Z
+434,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.531660Z
+435,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.539335Z
+436,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.546422Z
+437,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.553635Z
+438,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.560679Z
+439,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.567956Z
+440,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.574892Z
+441,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.581700Z
+442,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.589121Z
+443,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.597170Z
+444,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.609350Z
+445,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.617110Z
+446,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.624493Z
+447,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.631813Z
+448,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.639343Z
+449,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.647595Z
+450,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.654828Z
+451,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.661826Z
+452,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.668399Z
+453,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.675924Z
+454,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.683165Z
+455,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.690493Z
+456,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.697363Z
+457,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.705789Z
+458,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.712441Z
+459,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.719283Z
+460,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.727150Z
+461,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.735391Z
+462,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.743165Z
+463,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.751037Z
+464,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.758012Z
+465,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.765327Z
+466,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.772245Z
+467,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.779156Z
+468,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.786139Z
+469,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.792773Z
+470,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.799800Z
+471,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.806930Z
+472,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.813860Z
+473,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.821013Z
+474,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.827522Z
+475,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.834193Z
+476,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.840705Z
+477,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.848358Z
+478,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.855373Z
+479,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.862247Z
+480,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.869633Z
+481,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.877282Z
+482,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.884509Z
+483,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.891940Z
+484,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.899072Z
+485,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.906021Z
+486,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.913223Z
+487,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.920814Z
+488,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.927651Z
+489,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.935177Z
+490,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.941907Z
+491,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.948962Z
+492,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.956352Z
+493,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.965533Z
+494,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.972732Z
+495,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.980387Z
+496,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.987395Z
+497,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:51.994791Z
+498,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.004921Z
+499,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.011727Z
+500,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.018201Z
+501,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.025292Z
+502,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.032245Z
+503,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.039171Z
+504,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.045993Z
+505,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.052509Z
+506,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.060185Z
+507,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.067824Z
+508,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.075446Z
+509,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.082352Z
+510,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.089149Z
+511,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.096437Z
+512,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.103210Z
+513,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.110296Z
+514,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.117249Z
+515,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.124679Z
+516,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.131442Z
+517,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.137775Z
+518,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.144643Z
+519,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.150848Z
+520,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.157552Z
+521,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.163494Z
+522,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.169388Z
+523,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.176275Z
+524,License Detected in Node.js - (MIT OR WTFPL),Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.182318Z
+525,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.188792Z
+526,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.195010Z
+527,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.200896Z
+528,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.208153Z
+529,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.215196Z
+530,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.221882Z
+531,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.228143Z
+532,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.234148Z
+533,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.241079Z
+534,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.247176Z
+535,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.254222Z
+536,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.260451Z
+537,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.266684Z
+538,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.273663Z
+539,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.280058Z
+540,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.287053Z
+541,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.293623Z
+542,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.300323Z
+543,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.307075Z
+544,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.313748Z
+545,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.320716Z
+546,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.327072Z
+547,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.333327Z
+548,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.340020Z
+549,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.346825Z
+550,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.354034Z
+551,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.360954Z
+552,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.367553Z
+553,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.374161Z
+554,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.380780Z
+555,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.388068Z
+556,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.394792Z
+557,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.401472Z
+558,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.408580Z
+559,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.416056Z
+560,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.422946Z
+561,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.430046Z
+562,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.437220Z
+563,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.443999Z
+564,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.450175Z
+565,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.457027Z
+566,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.464379Z
+567,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.471199Z
+568,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.477559Z
+569,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.483992Z
+570,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.491106Z
+571,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.499684Z
+572,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.506478Z
+573,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.513822Z
+574,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.522243Z
+575,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.529916Z
+576,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.537498Z
+577,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.545024Z
+578,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.552248Z
+579,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.559333Z
+580,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.566247Z
+581,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.573761Z
+582,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.580228Z
+583,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.587424Z
+584,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.594122Z
+585,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.600232Z
+586,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.607285Z
+587,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.613880Z
+588,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.620657Z
+589,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.632884Z
+590,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.641224Z
+591,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.648361Z
+592,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.656748Z
+593,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.664231Z
+594,License Detected in Node.js - GPL-2.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:52.670955Z
+595,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.678175Z
+596,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.684441Z
+597,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.691323Z
+598,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.698175Z
+599,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.704573Z
+600,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.711386Z
+601,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.717715Z
+602,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.724411Z
+603,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.731920Z
+604,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.738940Z
+605,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.745863Z
+606,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.751957Z
+607,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.758575Z
+608,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.765026Z
+609,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.771858Z
+610,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.779001Z
+611,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.785034Z
+612,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.792436Z
+613,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.799029Z
+614,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.805764Z
+615,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.812560Z
+616,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.818762Z
+617,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.826575Z
+618,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.832798Z
+619,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.838881Z
+620,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.845621Z
+621,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.852140Z
+622,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.859574Z
+623,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.866153Z
+624,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.872576Z
+625,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.879448Z
+626,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.886420Z
+627,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.893038Z
+628,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.899739Z
+629,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.906206Z
+630,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.913314Z
+631,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.920385Z
+632,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.926810Z
+633,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.933693Z
+634,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.940623Z
+635,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.947450Z
+636,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.954267Z
+637,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.960795Z
+638,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.967948Z
+639,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.974639Z
+640,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.981452Z
+641,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.988182Z
+642,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:52.994518Z
+643,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.001074Z
+644,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.010870Z
+645,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.017492Z
+646,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.024205Z
+647,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.030954Z
+648,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.037893Z
+649,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.045152Z
+650,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.052231Z
+651,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.059393Z
+652,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.066267Z
+653,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.073333Z
+654,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.080145Z
+655,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.086602Z
+656,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.092856Z
+657,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.100663Z
+658,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.107030Z
+659,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.114063Z
+660,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.120708Z
+661,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.126984Z
+662,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.134331Z
+663,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.140288Z
+664,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.147029Z
+665,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.153109Z
+666,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.160264Z
+667,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.166732Z
+668,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.172729Z
+669,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.178848Z
+670,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.185684Z
+671,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.191991Z
+672,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.198006Z
+673,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.203976Z
+674,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.210398Z
+675,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.216860Z
+676,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.223079Z
+677,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.229053Z
+678,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.235428Z
+679,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.241565Z
+680,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.247979Z
+681,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.254156Z
+682,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.259942Z
+683,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.266519Z
+684,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.272522Z
+685,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.278347Z
+686,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.284614Z
+687,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.290655Z
+688,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.297053Z
+689,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.303131Z
+690,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.308833Z
+691,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.315900Z
+692,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.322298Z
+693,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.328527Z
+694,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.334643Z
+695,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.341809Z
+696,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.348692Z
+697,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.355218Z
+698,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.361326Z
+699,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.367344Z
+700,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.373418Z
+701,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.380000Z
+702,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.386007Z
+703,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.391749Z
+704,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.397881Z
+705,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.403765Z
+706,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.410145Z
+707,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.415830Z
+708,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.422471Z
+709,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.428393Z
+710,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.434098Z
+711,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.440857Z
+712,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.446699Z
+713,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.453040Z
+714,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.459487Z
+715,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.465247Z
+716,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.472124Z
+717,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.478606Z
+718,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.484631Z
+719,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.491134Z
+720,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.497267Z
+721,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.503767Z
+722,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.509876Z
+723,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.516347Z
+724,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.522637Z
+725,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.528707Z
+726,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.536104Z
+727,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.542867Z
+728,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.549852Z
+729,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.556543Z
+730,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.562868Z
+731,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.569075Z
+732,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.575331Z
+733,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.581922Z
+734,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.588229Z
+735,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.594369Z
+736,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.600960Z
+737,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.607378Z
+738,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.614199Z
+739,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.620538Z
+740,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.627026Z
+741,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.633101Z
+742,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.639813Z
+743,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.646302Z
+744,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.653262Z
+745,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.659372Z
+746,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.665628Z
+747,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.671990Z
+748,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.678005Z
+749,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.684289Z
+750,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.690946Z
+751,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.697284Z
+752,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.703398Z
+753,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.709220Z
+754,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.715642Z
+755,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.721733Z
+756,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.728301Z
+757,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.734562Z
+758,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.740849Z
+759,License Detected in Node.js - BlueOak-1.0.0,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:53.747507Z
+760,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.754181Z
+761,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.760386Z
+762,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.766615Z
+763,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.772842Z
+764,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.779233Z
+765,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.785695Z
+766,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.792312Z
+767,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.798509Z
+768,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.805094Z
+769,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.811722Z
+770,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.818080Z
+771,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.825349Z
+772,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.831831Z
+773,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.838704Z
+774,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.845044Z
+775,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.852157Z
+776,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.859299Z
+777,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.866125Z
+778,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.873822Z
+779,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.880623Z
+780,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.888038Z
+781,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.894739Z
+782,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.901696Z
+783,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.908606Z
+784,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.915827Z
+785,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.922856Z
+786,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.929784Z
+787,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.936441Z
+788,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.942962Z
+789,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.950399Z
+790,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.957333Z
+791,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.964231Z
+792,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.971417Z
+793,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.977866Z
+794,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.984899Z
+795,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.991710Z
+796,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:53.998310Z
+797,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.005021Z
+798,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.015397Z
+799,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.022299Z
+800,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.029177Z
+801,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.035633Z
+802,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.042855Z
+803,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.049661Z
+804,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.056560Z
+805,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.063544Z
+806,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.070256Z
+807,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.076711Z
+808,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.083718Z
+809,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.090875Z
+810,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.097701Z
+811,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.104811Z
+812,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.112094Z
+813,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.118677Z
+814,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.125850Z
+815,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.132800Z
+816,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.139721Z
+817,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.146494Z
+818,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.153187Z
+819,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.159882Z
+820,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.165987Z
+821,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.172543Z
+822,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.178387Z
+823,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.184615Z
+824,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.190515Z
+825,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.196693Z
+826,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.202873Z
+827,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.208469Z
+828,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.214918Z
+829,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.220762Z
+830,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.226590Z
+831,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.233436Z
+832,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.239215Z
+833,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.245440Z
+834,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.251434Z
+835,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.257342Z
+836,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.263327Z
+837,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.269663Z
+838,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.275475Z
+839,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.281571Z
+840,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.288136Z
+841,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.294703Z
+842,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.300947Z
+843,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.307150Z
+844,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.313766Z
+845,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.320521Z
+846,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.326282Z
+847,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.332501Z
+848,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.338669Z
+849,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.344711Z
+850,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.351149Z
+851,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.356960Z
+852,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.363314Z
+853,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.369889Z
+854,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.376069Z
+855,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.383303Z
+856,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.389263Z
+857,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.395285Z
+858,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.402428Z
+859,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.408418Z
+860,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.414796Z
+861,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.420759Z
+862,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.426781Z
+863,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.432946Z
+864,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.439265Z
+865,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.445188Z
+866,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.451208Z
+867,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.457056Z
+868,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.463308Z
+869,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.469817Z
+870,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.475656Z
+871,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.481909Z
+872,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.488768Z
+873,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.494816Z
+874,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.501430Z
+875,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.507323Z
+876,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.514587Z
+877,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.520929Z
+878,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.526818Z
+879,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.533382Z
+880,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.541063Z
+881,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.547917Z
+882,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.554519Z
+883,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.561122Z
+884,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.568127Z
+885,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.575010Z
+886,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.581317Z
+887,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.587965Z
+888,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.594230Z
+889,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.600300Z
+890,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.606313Z
+891,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.613017Z
+892,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.618934Z
+893,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.625657Z
+894,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.631712Z
+895,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.637782Z
+896,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.644951Z
+897,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.650769Z
+898,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.657010Z
+899,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.662880Z
+900,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.668701Z
+901,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.675323Z
+902,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.681164Z
+903,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.687966Z
+904,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.694091Z
+905,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.699888Z
+906,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.706577Z
+907,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.712372Z
+908,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.718189Z
+909,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.724629Z
+910,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.730650Z
+911,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.736951Z
+912,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.742951Z
+913,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.748916Z
+914,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.755148Z
+915,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.761574Z
+916,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.768385Z
+917,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.774603Z
+918,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.781184Z
+919,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.787297Z
+920,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.793967Z
+921,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.799989Z
+922,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.806153Z
+923,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.812673Z
+924,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.818549Z
+925,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.825015Z
+926,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.831026Z
+927,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.837194Z
+928,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.844096Z
+929,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.850036Z
+930,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.856323Z
+931,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.862426Z
+932,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.868457Z
+933,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.874919Z
+934,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.880960Z
+935,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.887178Z
+936,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.892878Z
+937,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.899642Z
+938,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.905680Z
+939,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.911537Z
+940,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.917894Z
+941,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.923637Z
+942,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.929899Z
+943,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.936377Z
+944,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.942480Z
+945,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.949109Z
+946,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.955128Z
+947,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.961202Z
+948,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.967246Z
+949,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.973272Z
+950,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.980249Z
+951,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.987629Z
+952,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:54.994769Z
+953,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.001020Z
+954,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.007337Z
+955,License Detected in Node.js - BlueOak-1.0.0,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:55.017590Z
+956,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.023580Z
+957,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.029787Z
+958,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.036123Z
+959,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.041827Z
+960,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.048235Z
+961,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.054102Z
+962,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.061217Z
+963,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.067692Z
+964,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.074024Z
+965,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.080420Z
+966,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.086494Z
+967,License Detected in Node.js - BlueOak-1.0.0,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:55.092557Z
+968,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.098280Z
+969,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.104382Z
+970,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.110251Z
+971,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.116007Z
+972,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.122394Z
+973,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.128340Z
+974,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.134632Z
+975,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.141525Z
+976,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.147803Z
+977,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.154514Z
+978,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.160596Z
+979,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.166510Z
+980,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.172650Z
+981,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.178899Z
+982,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.184864Z
+983,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.191147Z
+984,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.197654Z
+985,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.203609Z
+986,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.209609Z
+987,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.215338Z
+988,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.221361Z
+989,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.228121Z
+990,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.233914Z
+991,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.240564Z
+992,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.246426Z
+993,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.253054Z
+994,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.259303Z
+995,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.265259Z
+996,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.271478Z
+997,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.277567Z
+998,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.283305Z
+999,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.290763Z
+1000,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.296873Z
+1001,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.303049Z
+1002,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.309284Z
+1003,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.315186Z
+1004,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.321912Z
+1005,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.328098Z
+1006,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.334154Z
+1007,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.341100Z
+1008,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.347049Z
+1009,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.353282Z
+1010,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.359090Z
+1011,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.365976Z
+1012,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.371989Z
+1013,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.377877Z
+1014,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.384485Z
+1015,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.390515Z
+1016,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.396989Z
+1017,License Detected in Node.js - (BSD-2-Clause OR MIT OR Apache-2.0),Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.403164Z
+1018,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.409225Z
+1019,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.415903Z
+1020,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.424266Z
+1021,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.430578Z
+1022,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.436603Z
+1023,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.442817Z
+1024,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.449034Z
+1025,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.455073Z
+1026,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.484840Z
+1027,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.493954Z
+1028,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.501245Z
+1029,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.508255Z
+1030,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.515045Z
+1031,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.521900Z
+1032,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.529106Z
+1033,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.536036Z
+1034,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.542754Z
+1035,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.550173Z
+1036,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.556793Z
+1037,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.563846Z
+1038,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.571298Z
+1039,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.578079Z
+1040,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.584779Z
+1041,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.592902Z
+1042,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.600139Z
+1043,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.607535Z
+1044,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.615754Z
+1045,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.623904Z
+1046,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.632046Z
+1047,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.641439Z
+1048,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.649010Z
+1049,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.656333Z
+1050,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.663015Z
+1051,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.670496Z
+1052,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.678034Z
+1053,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.685493Z
+1054,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.791184Z
+1055,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.797794Z
+1056,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.804521Z
+1057,License Detected in Node.js - WTFPL OR ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.810808Z
+1058,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.817075Z
+1059,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.824119Z
+1060,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.831029Z
+1061,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.837370Z
+1062,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.844337Z
+1063,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.851098Z
+1064,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.857709Z
+1065,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.863942Z
+1066,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.870553Z
+1067,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.876847Z
+1068,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.882886Z
+1069,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.889614Z
+1070,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.895935Z
+1071,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.901833Z
+1072,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.908448Z
+1073,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.915646Z
+1074,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.922319Z
+1075,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.929282Z
+1076,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.936133Z
+1077,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.943052Z
+1078,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.950294Z
+1079,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.957421Z
+1080,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.963567Z
+1081,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.970181Z
+1082,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.976878Z
+1083,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.983290Z
+1084,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.990540Z
+1085,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:55.996929Z
+1086,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.003425Z
+1087,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.009514Z
+1088,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.016022Z
+1089,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.025696Z
+1090,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.032092Z
+1091,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.039196Z
+1092,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.045604Z
+1093,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.051906Z
+1094,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.058913Z
+1095,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.065128Z
+1096,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.071601Z
+1097,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.077659Z
+1098,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.084989Z
+1099,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.091610Z
+1100,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.097823Z
+1101,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.104476Z
+1102,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.111175Z
+1103,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.118110Z
+1104,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.125038Z
+1105,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.131656Z
+1106,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.138649Z
+1107,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.144848Z
+1108,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.151118Z
+1109,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.158297Z
+1110,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.164799Z
+1111,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.171594Z
+1112,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.177935Z
+1113,License Detected in Node.js - BSD-3-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.184484Z
+1114,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.190779Z
+1115,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.197227Z
+1116,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.203694Z
+1117,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.209589Z
+1118,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.216035Z
+1119,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.221972Z
+1120,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.228528Z
+1121,License Detected in Node.js - Unlicense,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.234627Z
+1122,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.240435Z
+1123,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.246751Z
+1124,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.252839Z
+1125,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.258984Z
+1126,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.265622Z
+1127,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.271798Z
+1128,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.277738Z
+1129,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.284390Z
+1130,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.290188Z
+1131,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.296353Z
+1132,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.302308Z
+1133,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.308620Z
+1134,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.315380Z
+1135,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.321420Z
+1136,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.327136Z
+1137,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.333653Z
+1138,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.339712Z
+1139,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.345772Z
+1140,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.351722Z
+1141,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.358076Z
+1142,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.364271Z
+1143,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.370874Z
+1144,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.378159Z
+1145,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.384170Z
+1146,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.390097Z
+1147,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.396367Z
+1148,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.402677Z
+1149,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.408791Z
+1150,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.414986Z
+1151,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.421618Z
+1152,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.427701Z
+1153,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.433778Z
+1154,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.440513Z
+1155,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.446975Z
+1156,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.454563Z
+1157,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.461141Z
+1158,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.467479Z
+1159,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.474410Z
+1160,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.480219Z
+1161,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.486635Z
+1162,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.492634Z
+1163,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.498399Z
+1164,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.504814Z
+1165,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.511091Z
+1166,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.517108Z
+1167,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.523514Z
+1168,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.529436Z
+1169,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.535654Z
+1170,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.541956Z
+1171,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.548085Z
+1172,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.554724Z
+1173,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.563233Z
+1174,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.570676Z
+1175,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.577499Z
+1176,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.583749Z
+1177,License Detected in Node.js - MIT/X11,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:56.591138Z
+1178,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.597931Z
+1179,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.605054Z
+1180,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.611945Z
+1181,License Detected in Node.js - WTFPL,Critical,True,False,False,False,0,3,[208],7,2026-04-20,2026-04-13T17:10:56.618679Z
+1182,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.625718Z
+1183,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.631652Z
+1184,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.638552Z
+1185,License Detected in Node.js - 0BSD,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.648273Z
+1186,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.657423Z
+1187,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.669023Z
+1188,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.687849Z
+1189,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.700545Z
+1190,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.707448Z
+1191,License Detected in Node.js - Apache-2.0,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.713718Z
+1192,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.720031Z
+1193,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.726037Z
+1194,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.733268Z
+1195,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.741098Z
+1196,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.748010Z
+1197,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.754505Z
+1198,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.760761Z
+1199,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.768176Z
+1200,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.774687Z
+1201,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.781342Z
+1202,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.787798Z
+1203,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.793926Z
+1204,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.800700Z
+1205,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.807591Z
+1206,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.814375Z
+1207,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.820542Z
+1208,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.826457Z
+1209,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.833109Z
+1210,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.840024Z
+1211,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.846627Z
+1212,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.853141Z
+1213,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.859083Z
+1214,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.866138Z
+1215,License Detected in Node.js - (WTFPL OR MIT),Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.873299Z
+1216,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.880254Z
+1217,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.887222Z
+1218,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.895335Z
+1219,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.902174Z
+1220,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.908507Z
+1221,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.915384Z
+1222,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.922072Z
+1223,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.928659Z
+1224,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.935156Z
+1225,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.941524Z
+1226,License Detected in Node.js - (MIT OR Apache-2.0),Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.948451Z
+1227,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:56.955202Z
+1228,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:56.961287Z
+1229,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:56.967627Z
+1230,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:56.974109Z
+1231,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:56.981336Z
+1232,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:56.988451Z
+1233,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:56.995116Z
+1234,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.001549Z
+1235,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.008124Z
+1236,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.015234Z
+1237,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.030269Z
+1238,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.036549Z
+1239,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.042483Z
+1240,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.049052Z
+1241,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.055440Z
+1242,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.062124Z
+1243,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.068672Z
+1244,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.074858Z
+1245,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.082032Z
+1246,License Detected in Node.js - LGPL-3.0-only,High,True,False,False,False,0,3,[208],30,2026-05-13,2026-04-13T17:10:57.088601Z
+1247,License Detected in Node.js - BSD-2-Clause,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.094735Z
+1248,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.101539Z
+1249,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.107844Z
+1250,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.114738Z
+1251,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.121226Z
+1252,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.127327Z
+1253,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.134353Z
+1254,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.140890Z
+1255,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.148200Z
+1256,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.154704Z
+1257,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.161048Z
+1258,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.167576Z
+1259,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.175131Z
+1260,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.181608Z
+1261,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.187825Z
+1262,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.194682Z
+1263,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.201448Z
+1264,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.207447Z
+1265,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.213855Z
+1266,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.220593Z
+1267,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.226815Z
+1268,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.233497Z
+1269,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.239940Z
+1270,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.246541Z
+1271,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.253579Z
+1272,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.261474Z
+1273,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.268559Z
+1274,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.274596Z
+1275,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.281025Z
+1276,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.287728Z
+1277,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.293873Z
+1278,License Detected in Node.js - BlueOak-1.0.0,Info,True,False,False,False,0,3,[208],,,2026-04-13T17:10:57.300426Z
+1279,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.306885Z
+1280,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.313242Z
+1281,License Detected in Node.js - ISC,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.319487Z
+1282,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.326005Z
+1283,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.333057Z
+1284,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.339976Z
+1285,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.346695Z
+1286,License Detected in Node.js - MIT,Low,True,False,False,False,0,3,[208],120,2026-08-11,2026-04-13T17:10:57.353202Z
+1287,Wildcard DNS Configuration - Detection,Info,True,False,False,False,200,4,[144],,,2026-04-13T17:10:58.304592Z
+1288,Public Swagger API - Detect,Info,True,False,False,False,200,4,[144],,,2026-04-13T17:10:58.337524Z
+1289,Dameng Database - Detect,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.364343Z
+1290,SNMPv3 Fingerprint - Detect,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.392199Z
+1291,X-Recruiting Header,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.413826Z
+1292,Add DOM EventListener - Detection,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.443971Z
+1293,Deprecated Feature-Policy Header - Detection,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.462891Z
+1294,OWASP Juice Shop,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.488691Z
+1295,robots.txt File,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.505986Z
+1296,FingerprintHub Technology Fingerprint,Info,True,False,False,False,200,4,[144],,,2026-04-13T17:10:58.521287Z
+1297,Missing Subresource Integrity,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.533514Z
+1298,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.558821Z
+1299,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.575561Z
+1300,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.593720Z
+1301,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.612787Z
+1302,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.635035Z
+1303,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.655658Z
+1304,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.673671Z
+1305,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.689959Z
+1306,HTTP Missing Security Headers,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.707222Z
+1307,Prometheus Metrics - Detect,Medium,True,False,False,False,200,4,[144],49,2026-06-01,2026-04-13T17:10:58.725077Z
+1308,robots.txt Endpoint Prober,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.749726Z
+1309,security.txt File,Info,True,False,False,False,0,4,[144],,,2026-04-13T17:10:58.763997Z
+1310,CAA Record,Info,True,False,False,False,200,4,[144],,,2026-04-13T17:10:58.779435Z
+1311,GHSA-2p57-rm9w-gvfp in ip:2.0.1,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:58.998267Z
+1312,GHSA-whpj-8f3w-67p5 in vm2:3.9.17,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.026313Z
+1313,GHSA-g644-9gfx-q4q4 in vm2:3.9.17,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.041562Z
+1314,GHSA-c7hr-j4mj-j2w6 in jsonwebtoken:0.1.0,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.054602Z
+1315,GHSA-c7hr-j4mj-j2w6 in jsonwebtoken:0.4.0,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.067840Z
+1316,GHSA-cchq-frgv-rjh5 in vm2:3.9.17,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.078323Z
+1317,GHSA-8hfj-j24r-96c4 in moment:2.0.0,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.088835Z
+1318,GHSA-p6mc-m468-83gw in lodash.set:4.3.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.099031Z
+1319,GHSA-r7qp-cfhv-p84w in engine.io:4.1.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.109760Z
+1320,GHSA-jf85-cpcp-j695 in lodash:2.4.2,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.120262Z
+1321,GHSA-87vv-r9j6-g5qv in moment:2.0.0,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.131162Z
+1322,GHSA-xwcq-pm8m-c4vf in crypto-js:3.3.0,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.141804Z
+1323,CVE-2025-15467 in libssl3:3.0.17-1~deb12u2,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.153129Z
+1324,GHSA-rm97-x556-q36h in sanitize-html:1.4.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.163350Z
+1325,GHSA-3h5v-q93c-6h6q in ws:7.4.6,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.172768Z
+1326,GHSA-pfrx-2q88-qq97 in got:8.3.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.184201Z
+1327,GHSA-cgfm-xwp7-2cvr in sanitize-html:1.4.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.193599Z
+1328,GHSA-p5gc-c584-jj6v in vm2:3.9.17,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.204243Z
+1329,GHSA-f5x3-32g6-xq36 in tar:4.4.19,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.213836Z
+1330,GHSA-35jh-r3h4-6jhm in lodash:2.4.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.223516Z
+1331,GHSA-3j7m-hmh3-9jmp in sanitize-html:1.4.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.233347Z
+1332,GHSA-446m-mv8f-q348 in moment:2.0.0,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.243017Z
+1333,GHSA-8g4m-cjm2-96wq in notevil:1.3.3,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.252318Z
+1334,GHSA-6g6m-m6h5-w9gf in express-jwt:0.1.3,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.262118Z
+1335,GHSA-4xc9-xhrj-v574 in lodash:2.4.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.271168Z
+1336,GHSA-mjxr-4v3x-q3m4 in sanitize-html:1.4.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.281157Z
+1337,GHSA-rjqq-98f6-6j3r in sanitize-html:1.4.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.299694Z
+1338,GHSA-rc47-6667-2j5j in http-cache-semantics:3.8.1,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.309086Z
+1339,GHSA-xc6g-ggrc-qq4r in sanitize-html:1.4.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.319473Z
+1340,GHSA-cqmj-92xf-r6r9 in socket.io-parser:4.0.5,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.328989Z
+1341,GHSA-grv7-fg5c-xmjg in braces:2.3.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.338487Z
+1342,GHSA-6rw7-vpxm-498p in qs:6.13.0,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.349305Z
+1343,GHSA-fvqr-27wr-82fm in lodash:2.4.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.359200Z
+1344,GHSA-25hc-qcg6-38wj in socket.io:3.1.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.369679Z
+1345,CVE-2018-20796 in libc6:2.36-9+deb12u10,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:10:59.380236Z
+1346,GHSA-pxg6-pf52-xh8x in cookie:0.4.2,Low,True,False,False,False,0,5,[12],120,2026-08-11,2026-04-13T17:10:59.388880Z
+1347,CVE-2025-69420 in libssl3:3.0.17-1~deb12u2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.399583Z
+1348,GHSA-8cf7-32gw-wr33 in jsonwebtoken:0.1.0,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.409729Z
+1349,GHSA-8cf7-32gw-wr33 in jsonwebtoken:0.4.0,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.421002Z
+1350,GHSA-vghf-hv5q-vc2g in validator:13.15.15,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.430964Z
+1351,GHSA-g5hg-p3ph-g8qg in multer:1.4.5-lts.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.439970Z
+1352,GHSA-952p-6rrq-rcjv in micromatch:3.1.10,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.450681Z
+1353,CVE-2025-59465 in node:22.18.0,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.460336Z
+1354,CVE-2025-69421 in libssl3:3.0.17-1~deb12u2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.470241Z
+1355,CVE-2025-69419 in libssl3:3.0.17-1~deb12u2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.479301Z
+1356,CVE-2019-9192 in libc6:2.36-9+deb12u10,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:10:59.489986Z
+1357,CVE-2019-1010025 in libc6:2.36-9+deb12u10,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:10:59.501386Z
+1358,GHSA-3ppc-4f35-3m26 in minimatch:3.0.5,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.509212Z
+1359,GHSA-3ppc-4f35-3m26 in minimatch:3.0.8,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.520230Z
+1360,GHSA-3ppc-4f35-3m26 in minimatch:3.1.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.530873Z
+1361,GHSA-3ppc-4f35-3m26 in minimatch:5.1.6,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.540736Z
+1362,GHSA-3ppc-4f35-3m26 in minimatch:9.0.5,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.551276Z
+1363,CVE-2025-15281 in libc6:2.36-9+deb12u10,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.560847Z
+1364,CVE-2026-22796 in libssl3:3.0.17-1~deb12u2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.569564Z
+1365,GHSA-r5mx-6wc6-7h9w in dottie:2.0.6,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.578228Z
+1366,GHSA-44fp-w29j-9vj5 in multer:1.4.5-lts.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.588747Z
+1367,GHSA-v52c-386h-88mc in multer:1.4.5-lts.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.600557Z
+1368,GHSA-xf7r-hgr6-v32p in multer:1.4.5-lts.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.610861Z
+1369,GHSA-7r86-cg39-jmmj in minimatch:3.0.5,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.621108Z
+1370,GHSA-7r86-cg39-jmmj in minimatch:3.0.8,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.631658Z
+1371,GHSA-7r86-cg39-jmmj in minimatch:3.1.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.641710Z
+1372,GHSA-7r86-cg39-jmmj in minimatch:5.1.6,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.652954Z
+1373,GHSA-7r86-cg39-jmmj in minimatch:9.0.5,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.664656Z
+1374,CVE-2019-1010024 in libc6:2.36-9+deb12u10,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:10:59.674866Z
+1375,GHSA-99p7-6v5w-7xg8 in vm2:3.9.17,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.685187Z
+1376,GHSA-23c5-xmqv-rm74 in minimatch:3.0.5,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.696053Z
+1377,GHSA-23c5-xmqv-rm74 in minimatch:3.0.8,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.705817Z
+1378,GHSA-23c5-xmqv-rm74 in minimatch:3.1.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.716665Z
+1379,GHSA-23c5-xmqv-rm74 in minimatch:5.1.6,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.728960Z
+1380,GHSA-23c5-xmqv-rm74 in minimatch:9.0.5,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.740054Z
+1381,GHSA-hjrf-2m68-5959 in jsonwebtoken:0.1.0,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.754271Z
+1382,GHSA-hjrf-2m68-5959 in jsonwebtoken:0.4.0,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.772713Z
+1383,GHSA-5j98-mcp5-4vw2 in glob:10.4.5,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.784229Z
+1384,CVE-2026-21637 in node:22.18.0,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.795527Z
+1385,CVE-2025-55131 in node:22.18.0,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.806713Z
+1386,GHSA-qhxp-v273-g94h in sanitize-html:1.4.2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.816300Z
+1387,GHSA-vj76-c3g6-qr5v in tar-fs:2.1.3,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.826775Z
+1388,CVE-2010-4756 in libc6:2.36-9+deb12u10,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:10:59.837277Z
+1389,GHSA-9965-vmph-33xx in validator:13.15.15,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.846336Z
+1390,CVE-2025-9230 in libssl3:3.0.17-1~deb12u2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.856583Z
+1391,CVE-2019-1010023 in libc6:2.36-9+deb12u10,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:10:59.866714Z
+1392,CVE-2025-59466 in node:22.18.0,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.878190Z
+1393,GHSA-xxjr-mmjv-4gpg in lodash:4.17.21,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.887876Z
+1394,CVE-2026-0915 in libc6:2.36-9+deb12u10,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.899251Z
+1395,GHSA-w7fw-mjwx-w883 in qs:6.13.0,Low,True,False,False,False,0,5,[12],120,2026-08-11,2026-04-13T17:10:59.908888Z
+1396,CVE-2025-9232 in libssl3:3.0.17-1~deb12u2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.919626Z
+1397,CVE-2025-4802 in libc6:2.36-9+deb12u10,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.929434Z
+1398,GHSA-34x7-hfp2-rc4v in tar:4.4.19,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.939209Z
+1399,GHSA-34x7-hfp2-rc4v in tar:6.2.1,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.949255Z
+1400,GHSA-34x7-hfp2-rc4v in tar:7.4.3,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:10:59.959864Z
+1401,GHSA-mh29-5h37-fv8m in js-yaml:3.14.1,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.971625Z
+1402,CVE-2025-55130 in node:22.18.0,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:10:59.982904Z
+1403,GHSA-qwph-4952-7xr6 in jsonwebtoken:0.1.0,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:10:59.992349Z
+1404,GHSA-qwph-4952-7xr6 in jsonwebtoken:0.4.0,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:11:00.004485Z
+1405,GHSA-fjgf-rc76-4x9p in multer:1.4.5-lts.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.016538Z
+1406,CVE-2026-22795 in libssl3:3.0.17-1~deb12u2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:11:00.028315Z
+1407,GHSA-83g3-92jg-28cx in tar:4.4.19,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.039287Z
+1408,GHSA-83g3-92jg-28cx in tar:6.2.1,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.049743Z
+1409,GHSA-83g3-92jg-28cx in tar:7.4.3,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.060094Z
+1410,GHSA-4pg4-qvpc-4q3h in multer:1.4.5-lts.2,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.074070Z
+1411,CVE-2025-68160 in libssl3:3.0.17-1~deb12u2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:11:00.084974Z
+1412,GHSA-869p-cjfg-cm3x in jws:0.2.6,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.094523Z
+1413,CVE-2019-1010022 in libc6:2.36-9+deb12u10,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:11:00.106295Z
+1414,CVE-2026-0861 in libc6:2.36-9+deb12u10,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.115739Z
+1415,GHSA-73rr-hh4g-fpgx in diff:4.0.2,Low,True,False,False,False,0,5,[12],120,2026-08-11,2026-04-13T17:11:00.124309Z
+1416,GHSA-8qq5-rm4j-mr97 in tar:4.4.19,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.135218Z
+1417,GHSA-8qq5-rm4j-mr97 in tar:6.2.1,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.146283Z
+1418,GHSA-8qq5-rm4j-mr97 in tar:7.4.3,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.155981Z
+1419,GHSA-r6q2-hw4h-h46w in tar:4.4.19,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.168394Z
+1420,GHSA-r6q2-hw4h-h46w in tar:6.2.1,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.178831Z
+1421,GHSA-r6q2-hw4h-h46w in tar:7.4.3,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.189311Z
+1422,CVE-2025-55132 in node:22.18.0,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:11:00.200301Z
+1423,CVE-2025-8058 in libc6:2.36-9+deb12u10,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:11:00.209048Z
+1424,CVE-2025-27587 in libssl3:3.0.17-1~deb12u2,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:11:00.218100Z
+1425,CVE-2022-27943 in gcc-12-base:12.2.0-14+deb12u1,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:11:00.226667Z
+1426,CVE-2022-27943 in libgcc-s1:12.2.0-14+deb12u1,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:11:00.235366Z
+1427,CVE-2022-27943 in libgomp1:12.2.0-14+deb12u1,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:11:00.244022Z
+1428,CVE-2022-27943 in libstdc++6:12.2.0-14+deb12u1,Info,True,False,False,False,0,5,[12],,,2026-04-13T17:11:00.253693Z
+1429,CVE-2025-69418 in libssl3:3.0.17-1~deb12u2,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:11:00.261967Z
+1430,GHSA-5mrr-rgp6-x4gr in marsdb:0.6.11,Critical,True,False,False,False,0,5,[12],7,2026-04-20,2026-04-13T17:11:00.270772Z
+1431,GHSA-gjcw-v447-2w7q in jws:0.2.6,High,True,False,False,False,0,5,[12],30,2026-05-13,2026-04-13T17:11:00.278506Z
+1432,GHSA-rvg8-pwq2-xj7q in base64url:0.0.6,Medium,True,False,False,False,0,5,[12],90,2026-07-12,2026-04-13T17:11:00.288310Z
+1433,Content Security Policy (CSP) Header Not Set,Medium,True,False,False,False,693,6,[231],90,2026-07-12,2026-04-13T17:14:14.805399Z
+1434,Cross-Domain Misconfiguration,Medium,True,False,False,False,264,6,[231],90,2026-07-12,2026-04-13T17:14:14.836216Z
+1435,Cross-Domain JavaScript Source File Inclusion,Low,True,False,False,False,829,6,[231],120,2026-08-11,2026-04-13T17:14:14.849047Z
+1436,Cross-Origin-Embedder-Policy Header Missing or Invalid,Low,True,False,False,False,693,6,[231],120,2026-08-11,2026-04-13T17:14:14.858029Z
+1437,Cross-Origin-Opener-Policy Header Missing or Invalid,Low,True,False,False,False,693,6,[231],120,2026-08-11,2026-04-13T17:14:14.867662Z
+1438,Dangerous JS Functions,Low,True,False,False,False,749,6,[231],120,2026-08-11,2026-04-13T17:14:14.877225Z
+1439,Deprecated Feature Policy Header Set,Low,True,False,False,False,16,6,[231],120,2026-08-11,2026-04-13T17:14:14.882964Z
+1440,Timestamp Disclosure - Unix,Low,True,False,False,False,497,6,[231],120,2026-08-11,2026-04-13T17:14:14.892229Z
+1441,Modern Web Application,Info,True,False,False,False,0,6,[231],,,2026-04-13T17:14:14.902180Z
+1442,Non-Storable Content,Info,True,False,False,False,524,6,[231],,,2026-04-13T17:14:14.915048Z
+1443,Storable and Cacheable Content,Info,True,False,False,False,524,6,[231],,,2026-04-13T17:14:14.924314Z
+1444,Storable but Non-Cacheable Content,Info,True,False,False,False,524,6,[231],,,2026-04-13T17:14:14.930171Z

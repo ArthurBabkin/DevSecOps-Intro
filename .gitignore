@@ -7,3 +7,7 @@ cosign-linux-amd64
 # Lab 8 — Cosign key material
 labs/lab8/signing/cosign.key
 labs/lab8/signing/cosign.pub
+
+# Lab 10 — upstream DefectDojo clone (large; reproduce via labs/lab10/setup/README.md)
+labs/lab10/setup/django-DefectDojo/
+labs/lab10/**/__pycache__/
