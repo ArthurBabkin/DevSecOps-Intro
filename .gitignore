@@ -11,3 +11,8 @@ labs/lab8/signing/cosign.pub
 # Lab 10 — upstream DefectDojo clone (large; reproduce via labs/lab10/setup/README.md)
 labs/lab10/setup/django-DefectDojo/
 labs/lab10/**/__pycache__/
+
+# Lab 11 — locally generated TLS keys/certs (see labs/lab11.md)
+labs/lab11/reverse-proxy/certs/*
+# Lab 11 — runtime nginx logs (evidence kept under labs/lab11/analysis/)
+labs/lab11/logs/*.log
