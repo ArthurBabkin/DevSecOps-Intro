@@ -1,19 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# install-kata-assets.sh
-# Download and install Kata Containers static assets (kernel, rootfs image,
-# default runtime-rs configuration) under /opt/kata, and ensure a
-# configuration file exists in an expected path for runtime-rs.
-#
-# Usage:
-#   sudo bash labs/lab12/scripts/install-kata-assets.sh [KATA_VER]
-#
-# Notes:
-# - Requires: curl, jq, tar (with zstd support), and root privileges.
-# - Creates or updates a symlink at:
-#     /etc/kata-containers/runtime-rs/configuration.toml
-#   pointing to the installed default configuration.
+# Install Kata static assets and runtime config link.
 
 VER_ARG=${1:-}
 ARCH=$(uname -m)
@@ -36,8 +24,7 @@ echo "Installing Kata static assets ${KATA_VER} for ${ARCH}" >&2
 TMP_TAR=$(mktemp --suffix=.tar.zst)
 curl -fL -o "${TMP_TAR}" "${ASSET_URL}"
 
-# Extract to root; archive lays files under /opt/kata, /usr/local/bin, etc.
-# Prefer explicit decompressor if available to avoid tar invoking external zstd unexpectedly.
+# Extract archive to root.
 if command -v zstd >/dev/null 2>&1; then
   zstd -d -c "${TMP_TAR}" | tar -xf - -C /
 elif command -v unzstd >/dev/null 2>&1; then
@@ -51,7 +38,7 @@ else
 fi
 rm -f "${TMP_TAR}"
 
-# Link configuration to an expected path for runtime-rs
+# Link runtime config to standard path.
 sudo mkdir -p /etc/kata-containers/runtime-rs
 SRC_CANDIDATES=(
   "/opt/kata/share/defaults/kata-containers/runtime-rs/configuration-dragonball.toml"

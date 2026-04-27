@@ -1,0 +1,5 @@
+=== CPU Model Comparison ===
+Host CPU:
+model name	: AMD Ryzen 9 7940HS w/ Radeon 780M Graphics
+Kata VM CPU:
+model name	: AMD Ryzen 9 7940HS w/ Radeon 780M Graphics

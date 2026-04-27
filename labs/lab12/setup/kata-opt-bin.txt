@@ -1,0 +1,13 @@
+total 407272
+drwxr-xr-x 2 root root     4096 Apr 22 22:10 .
+drwxr-xr-x 8 root root     4096 Apr 22 22:35 ..
+-rwxr--r-- 1 root root  5038800 Apr 18 13:26 cloud-hypervisor
+-rwxr-xr-x 1 root root 67779008 Apr 22 22:10 containerd-shim-kata-v2
+-rwxr--r-- 1 root root  2892072 Apr 18 13:23 firecracker
+-rwxr--r-- 1 root root  2280632 Apr 18 13:23 jailer
+-rwxr-xr-x 1 root root    16999 Apr 22 22:10 kata-collect-data.sh
+-rwxr-xr-x 1 root root 54691912 Apr 22 22:10 kata-monitor
+-rwxr-xr-x 1 root root 65850488 Apr 22 22:10 kata-runtime
+-rwxr-xr-x 1 root root 72825640 Apr 20 20:48 qemu-system-x86_64
+-rwxr-xr-x 1 root root 72821864 Apr 20 20:48 qemu-system-x86_64-snp-experimental
+-rwxr-xr-x 1 root root 72821864 Apr 20 20:48 qemu-system-x86_64-tdx-experimental

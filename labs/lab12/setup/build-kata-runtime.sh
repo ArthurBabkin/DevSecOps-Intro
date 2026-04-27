@@ -1,14 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Build Kata Containers 3.x Rust runtime (containerd-shim-kata-v2)
-# inside a temporary Rust toolchain container, and place the binary
-# into the provided output directory. This avoids installing build
-# dependencies on the host.
-#
-# Usage:
-#   bash labs/lab12/setup/build-kata-runtime.sh
-#   # result: labs/lab12/setup/kata-out/containerd-shim-kata-v2
+# Build Kata shim in a Rust container.
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")"/../.. && pwd)"
 WORK_DIR="${ROOT_DIR}/lab12/setup/kata-build"
@@ -27,7 +20,7 @@ docker run --rm \
       git make gcc pkg-config ca-certificates musl-tools libseccomp-dev && \
       update-ca-certificates || true
 
-    # Ensure cargo/rustup are available
+    # Check Rust tools.
     export PATH=/usr/local/cargo/bin:$PATH
     rustc --version; cargo --version; rustup --version || true
 
@@ -37,13 +30,13 @@ docker run --rm \
     fi
     cd kata-containers/src/runtime-rs
 
-    # Add MUSL target for static build expected by runtime Makefile
+    # Add MUSL target for static build.
     rustup target add x86_64-unknown-linux-musl || true
 
-    # Build the runtime (shim v2)
+    # Build shim.
     make
 
-    # Collect the produced binary
+    # Copy built binary.
     f=$(find target -type f -name containerd-shim-kata-v2 | head -n1)
     if [ -z "$f" ]; then
       echo "ERROR: built binary not found" >&2; exit 1

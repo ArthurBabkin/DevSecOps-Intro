@@ -1,16 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# configure-containerd-kata.sh
-# Idempotently ensure containerd has the Kata runtime configured:
-#   [plugins."io.containerd.grpc.v1.cri".containerd.runtimes.kata]
-#     runtime_type = "io.containerd.kata.v2"
-#
-# Usage:
-#   sudo bash labs/lab12/scripts/configure-containerd-kata.sh
+# Add Kata runtime to containerd config.
 
 CONF_DEFAULT="/etc/containerd/config.toml"
-# Allow override via $CONF or first CLI arg
+# Allow custom config path.
 CONF="${CONF:-${1:-$CONF_DEFAULT}}"
 TMP=$(mktemp)
 
@@ -29,7 +23,7 @@ ensure_default() {
 }
 
 detect_header() {
-  # Prefer v3 split-CRI path if present; otherwise fallback to grpc path
+  # Use v3 CRI path if present.
   if grep -q "^\[plugins\.'io\.containerd\.cri\.v1\.runtime'\]" "$CONF"; then
     echo "[plugins.'io.containerd.cri.v1.runtime'.containerd.runtimes.kata]"
   else
@@ -42,8 +36,7 @@ insert_or_update_kata() {
   header=$(detect_header)
   local value="  runtime_type = 'io.containerd.kata.v2'"
 
-  # Process file: update runtime_type inside the kata table if it exists,
-  # otherwise append a new table at the end.
+  # Update existing kata block or append a new one.
   awk -v hdr="$header" -v val="$value" '
     BEGIN { inside=0; updated=0 }
     {
@@ -68,8 +61,7 @@ insert_or_update_kata() {
       if (inside && !updated) {
         print val
       } else if (!inside && NR > 0) {
-        # Check if header ever appeared; if not, append it.
-        # We can infer by searching the output later, but simpler: do a second pass.
+        # No-op. Missing header is appended later.
       }
     }
   ' "$CONF" > "$TMP"

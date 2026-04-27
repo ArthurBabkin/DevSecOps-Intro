@@ -1,0 +1,1 @@
+lrwxrwxrwx 1 root root 81 Apr 27 20:53 /etc/kata-containers/runtime-rs/configuration.toml -> /opt/kata/share/defaults/kata-containers/runtime-rs/configuration-dragonball.toml
